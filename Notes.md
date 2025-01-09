@@ -90,8 +90,8 @@
 ## Join the Raleigh ISSA Discord
 
 - https://discord.gg/FKHZj9MTK3
-- CTF events every 1st and 3rd Saturday from 10am - 1pm
-Flag: L00k$L1k3Y0uF0undM3
+
+- CTF Flag: L00k$L1k3Y0uF0undM3
 
 ## Other communities to join locally that help with CTFs
 
